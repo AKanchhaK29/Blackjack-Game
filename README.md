@@ -6,7 +6,7 @@ Start a round, draw new cards, and try your luck at hitting 21!
 ![Blackjack Screenshot](blackjackGame.png)
 
 ## Live Demo
-👉 [Play Here](https://akanchhak29.github.io/blackjack-game/)
+👉 [Play Here]( https://akanchhak29.github.io/Blackjack-Game/)
 
 ## Features
 - Start, Draw, and Reset buttons
@@ -22,5 +22,6 @@ Made by [Akanchha Kumari](https://github.com/AKanchhaK29) 🎉
 
 ## License
 MIT
+
 
 
